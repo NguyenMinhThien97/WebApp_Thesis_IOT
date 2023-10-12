@@ -1,0 +1,10 @@
+streamlit==1.27.2
+streamlit-webrtc==0.47.1
+st-pages==0.4.5
+pandas==2.1.0
+ultralytics==8.0.134
+supervision==0.2.1
+keras==2.12.0
+opencv-python==4.8.1.78
+pillow~=9.4.0
+torch==2.1.0

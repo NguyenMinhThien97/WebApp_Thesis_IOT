@@ -1,0 +1,5 @@
+camera_ip,model,accuracy,is_active
+10.255.255.1,Keras,55.0,True
+10.255.255.2,Coral,50.0,True
+10.255.0.1,YoloV8,60.0,True
+10.255.0.2,YoloV8,0.0,True
