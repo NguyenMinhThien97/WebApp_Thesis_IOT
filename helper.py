@@ -1,3 +1,6 @@
+import sys
+sys.path.append('./ultralytics/yolo')
+
 from ultralytics import YOLO
 import supervision as sv
 import av

@@ -4,7 +4,6 @@ import pandas as pd
 
 # Local Modules
 import settings
-import helper
 
 
 add_page_title(layout="wide")

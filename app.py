@@ -11,8 +11,8 @@ st.set_page_config(
 # Specify what pages should be shown in the sidebar, and what their titles and icons
 show_pages(
     [
-        Page("page/home_page.py", "Smart Agriculture", "🌿"),
-        Page("page/setting_page.py", "Setting", "✏️"),
+        Page("home_page.py", "Smart Agriculture", "🌿"),
+        Page("setting_page.py", "Setting", "✏️"),
     ]
 )
 # adds the title and icon to the current page
